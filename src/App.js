@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
   button: {
     alignItems: 'center',
     borderColor: 'white',
-    borderRadius: 15,
+    borderRadius: 30,
     borderStyle: 'solid',
     borderWidth: 2,
     height: 55,
