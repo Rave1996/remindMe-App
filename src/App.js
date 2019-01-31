@@ -10,6 +10,6 @@ const Screens = createStackNavigator({
   Tasks: {
     screen: Tasks
   }
-}, {headerMode: 'none'});
+}, { headerMode: 'none' });
 
 export default createAppContainer(Screens);
