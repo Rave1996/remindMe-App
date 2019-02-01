@@ -4,7 +4,7 @@ import styles from './HomeStyles';
 
 export default class Home extends Component {
     gotoHome(){
-        this.props.navigation.navigate('Tasks');
+      this.props.navigation.navigate('Tasks');
     }
 
     render() {
