@@ -32,6 +32,7 @@ const styles = StyleSheet.create({
         borderRadius: 50,
         height: 75,
         justifyContent: 'center',
+        textTransform: 'uppercase',
         width: 75,
     },
 });
