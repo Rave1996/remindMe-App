@@ -32,8 +32,26 @@ const styles = StyleSheet.create({
         borderRadius: 50,
         height: 75,
         justifyContent: 'center',
-        textTransform: 'uppercase',
         width: 75,
+    },
+    modalContainer: {
+        flex: 1,
+        flexDirection: 'column',
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
+    modalContent: {
+        backgroundColor: 'red',
+        width: 300,
+        height: 450,
+    },
+    modalHeader: {
+        height: 150,
+        width: '100%',
+    },
+    modalLogo: {
+        height: 100,
+        width: '100%',
     },
 });
 
